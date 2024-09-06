@@ -7,4 +7,4 @@ Topics include:
 - syntax and logic
 - case study: geocoding street addresses using the Google Maps Geocoding API.
 
-Initially presented for students in CP 201B Planning Methods Gateway II, UC Berkeley Department of City and Regional Planning, April 2016.
+Initially presented for students in CP 201B Planning Methods Gateway II, UC Berkeley Department of City and Regional Planning, April 2016. Revised for CP201A, September 2024.
